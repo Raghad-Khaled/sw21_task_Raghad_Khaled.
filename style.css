@@ -1,0 +1,93 @@
+
+ 
+ .parallax {
+    /* The image used */
+    background-image: url("background.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  #head {
+    background-color: rgba(195, 192, 188, 0.48);
+    width: 471px;
+    height: 50px;
+    box-shadow: 10px 10px 5px 2px rgba(228, 220, 220, 0.65);
+    border-radius: 20px 100px /100px;
+    margin-left: 20%;
+    padding: 10px 20px;
+    text-align: center;
+    position: absolute;
+    margin-top: 100px;
+    color: #fcfcfc;
+    text-shadow: 1px 1px 3px black;
+    font-size: 28px;
+}
+
+  #contener
+  {
+      background-color: #183e41bf;
+      color: #131313;
+      
+  }
+  #contener2
+  {
+    background-color: #183e41bf;
+    color:white;
+    font-size: 20px;
+  }
+
+.OBJECTIVE,.VISION,.MISSION {
+    background-color: #c8f4f399;
+    
+    width: 500px;
+    text-shadow: 1px 1px 3px #eae7e7;
+    border-radius: 50px 50px /100px;
+    box-shadow: 3px 3px 3px 3px rgba(228, 220, 220, 0.65);
+    padding: 20px 25px;
+    
+    font-size: 15px;
+    text-align: left;
+    margin-left: 0;
+    margin-top: 0px;
+}
+button {
+    background-color: #99bebfb3;
+    border: 19px;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 50px;
+    border-radius: 12px;
+}
+
+input[type=text] {
+    
+    padding: 12px 20px;
+    margin: 12px 32px;
+    box-sizing: border-box;
+  }
+
+  img.STP {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    width: 300px;
+    float:right;
+    border-radius:50%;
+    margin-right:12%;
+    margin-top: 20px;
+  }
+  #demo{
+    padding: 40px;
+
+  }
