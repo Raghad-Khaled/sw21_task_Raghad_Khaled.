@@ -12,12 +12,13 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    height: 567px;
   }
   
   #head {
     background-color: rgba(195, 192, 188, 0.48);
     width: 471px;
-    height: 50px;
+    height: 110px;
     box-shadow: 10px 10px 5px 2px rgba(228, 220, 220, 0.65);
     border-radius: 20px 100px /100px;
     margin-left: 20%;
